@@ -1,0 +1,31 @@
+﻿Vara,Tithi,TithiStart,TithiEnd,TithiDuration,Nakshatra,NakshatraStart,NakshatraEnd,NakshatraDuration,Yoga,YogaStart,YogaEnd,YogaDuration,Sunrise,Sunset,MoonriseDate,MoonriseTime,MoonsetDate,MoonsetTime
+Shukrwar,Krishna Paksha Pratipada[Tithi Kshaya],Aug 12 07:05AM,Aug 13 03:47AM,1242,Dhanishta,Aug 12 04:07AM,Aug 13 01:35AM,1288,Saubhagya,Aug 11 03:32PM,Aug 12 11:33AM,1201,5:52AM,6:59PM,Aug-12,7:40PM,Aug-13,6:53AM
+Shaniwar,Krishna Paksha Dwitiya,Aug 13 03:47AM,Aug 14 12:53AM,1266,Shatabhisha,Aug 13 01:36AM,Aug 13 11:28PM,1312,Sobhana,Aug 12 11:33AM,Aug 13 07:49AM,1216,5:53AM,6:58PM,Aug-13,8:19PM,Aug-14,07:59AM
+Raviwar,Krishna Paksha Tritiya,Aug 14 12:53AM,Aug 14 10:36PM,1303,Purva Bhadrapada,Aug 13 11:28PM,Aug 14 09:56PM,1348,Atiganda,Aug 13 07:49AM,Aug 14 04:28AM,1239,5:53AM,06:57PM,Aug-14,8:54PM,Aug-15,9:03AM
+Somwar,Krishna Paksha Chaturthi,Aug 14 10:36PM,Aug 15 09:02PM,1346,Uttara Bhadrapada,Aug 14 09:56PM,Aug 15 09:07PM,1391,Sukarman,Aug 14 04:28AM,Aug 15 01:37AM,1269,5:54AM,06:56PM,Aug-15,9:26PM,Aug-16,10:03AM
+Mangalwar,Krishna Paksha Panchami,Aug 15 09:02PM,Aug 16 08:17PM,1395,Revati,Aug 15 09:07PM,Aug 16 09:06PM,1439,Dhrithi,Aug 15 01:37AM,Aug 15 11:23PM,1306,5:54AM,6:55PM,Aug-16,9:58PM,Aug-17,11:02AM
+Budhwar,Krishna Paksha Shashthi,Aug 16 08:17PM,Aug 17 08:24PM,1440,Ashwini,Aug 16 09:07PM,Aug 17 09:57PM,1490,Soola,Aug 15 11:23PM,Aug 16 09:49PM,1346,5:55AM,6:54PM,Aug-17,10:30PM,Aug-18,12:00AM
+Guruwar,Krishna Paksha Saptami,Aug 17 08:24PM,Aug 18 09:21PM,1497,Bharani,Aug 17 09:57PM,Aug 18 11:35PM,1538,Ganda,Aug 16 09:49PM,Aug 17 08:56PM,1387,5:56AM,6:53PM,Aug-18,11:03PM,Aug-18,12:00AM
+Shukrwar,Krishna Paksha Ashtami,Aug 18 09:21PM,Aug 19 10:59PM,1538,Krithika,Aug 18 11:35PM,Aug 20 01:53AM,1578,Vridhi,Aug 17 08:56PM,Aug 18 08:41PM,1425,5:56AM,6:52PM,Aug-19,11:40PM,Aug-19,12:58PM
+Shaniwar,Krishna Paksha Navami,Aug 19 10:59PM,Aug 21 01:09AM,1570,Rohini,Aug 20 01:53AM,Aug 21 04:40AM,1607,Dhruva,Aug 18 08:41PM,Aug 19 08:59PM,1458,5:57AM,06:51PM, Aug 20,12:21 AM,Aug-20,01:55 PM
+Raviwar,Krishna Paksha Dashami ,Aug 21 01:09AM ,Aug 22 03:36AM,1587,Mrigashirsha ,Aug 21 04:40AM,Aug 22 07:41AM,1621,Vyaghata,Aug 19 08:59PM,Aug 20 09:41PM,1482,5:57AM,06:50 PM, Aug 21,12:21 AM, Aug 21,02:51PM
+Somwar,Krishna Paksha Ekadashi [Tithi Vridhi],Aug 22 03:36AM,Aug 23 06:07AM,1591,Ardra,Aug 22 07:41AM,Aug 23 10:44AM,1623,Harshana,Aug 20 09:41PM,Aug 21 10:38PM,1497,5:58AM,06:49PM,Aug-22,1:06AM,Aug-22,3:44PM
+Mangalwar,Krishna Paksha Dwadashi,Aug 23 06:07AM,Aug 24 08:30AM,1583,Punarvasu,Aug 23 10:44AM,Aug 24 01:38PM,1614,Vajra,Aug 21 10:38PM,Aug 22 11:40PM,1502,5:58AM,6.48PM,Aug-23,1:56AM,Aug-23,4:34PM
+Budhwar,Krishna Paksha Trayodashi,Aug 24 08:30AM,Aug 25 10:38AM,1568,Pushya,Aug 24 01:38PM,Aug 25 04:16PM,1598,Siddhi,Aug 22 11:40PM,Aug 24 12:38AM,1490,5:59AM,6:47PM,Aug-24,2:49AM,Aug-24,5:19PM
+Guruwar,Krishna Paksha Chaturdashi,Aug 25 10:38AM,Aug 26 12:24PM,1546,Ashlesha,Aug 25 04:16PM,Aug 26 06:33PM,1577,Vyatipata,Aug 24 12:38AM,Aug 25 01:25AM,1487,5:59AM,6:46PM,Aug-25,3:45AM,Aug-25,5:59PM
+Shukrwar,Krishna Paksha Amavasya ,Aug 26 12:24PM,Aug 27 01:47PM,1523,Magha,Aug 26 06:33PM,Aug 27 08:26PM,1553,Variyan,Aug 25 01:25AM,Aug 26 01:57AM,1472,6:00AM,6:45PM,Aug-26,4:42AM,Aug-26,6:35PM
+Shaniwar,Sukla Paksha Pratipada ,Aug 27 01:47PM,Aug 28 02:45PM,1498,Purva Phalguni,Aug 27 08:26PM,Aug 28 09:56PM,1530,Parigha,Aug 26 01:57AM,Aug 27 02:11AM,1454,6:00AM,6:44PM,Aug-27,5:39AM,Aug-27,07:08PM
+Raviwar,Sukla Paksha Dwitiya  ,Aug 28 02:45PM ,Aug 29 03:20PM,1475,Uttara Phalguni,Aug 28 09:56PM,Aug 29 11:04PM,1508,Siva,Aug 27 02:11AM,Aug 28 02:06AM,1435,6:01AM,6:43PM,Aug-28,6:35AM,Aug-28,07:39PM
+Somwar,Sukla Paksha Tritiya,Aug 29 03:20PM,Aug 30 03:33PM,1453,Hasta,Aug 29 11:04PM,Aug 30 11:49PM,1485,Siddha,Aug 28 02:06AM,Aug 29 01:44AM,1418,6:01AM,6:42PM,Aug-29,7:32AM,Aug-29,8:09PM
+Mangalwar,Sukla Paksha Chaturthi ,Aug 30 03:33PM,Aug 31 03:23PM,1430,Chitra,Aug 30 11:49PM,Sep 01 12:12AM,1463,Sadhya,Aug 29 01:44AM,Aug 30 01:03AM,1399,6:02AM,6:41PM,Aug-30,8:28AM,Aug-30,8:39PM
+Budhwar,Sukla Paksha Panchami  ,Aug 31 03:23PM,Sep 01 02:49PM,1406,Swati,Sep 01 12:12AM,Sep 02 12:12AM,1440,Subha,Aug 30 01:03AM,Aug 31 12:04AM,1381,6:02AM,6:40PM,Aug-31,9:26AM,Aug-31,9:10PM
+Guruwar,Sukla Paksha Shashthi,Sep 01 02:49PM,Sep 02 01:51PM,1382,Vishaka,Sep 02 12:12AM,Sep 02 11:47PM,1415,Sukla,Aug 31 12:04AM,Aug 31 10:47PM,1363,6:03AM,6:39PM,Sep-01,10:26AM,Sep-01,9:44PM
+Shukrwar,Sukla Paksha Saptami,Sep 02 01:51PM,Sep 03 12:28PM,1357,Anuradha ,Sep 02 11:47PM,Sep 03 10:57PM,1390,Brahma ,Aug 31 10:47PM,Sep 01 09:11PM,1344,6:03AM,6:37PM,Sep-02,11:29AM,Sep-02,10:23PM
+Shaniwar,Sukla Paksha Ashtami,Sep 03 12:28PM,Sep 04 10:40AM,1332,Jyeshta,Sep 03 10:57PM,Sep 04 09:43PM,1366,Indra ,Sep 01 09:11PM,Sep 02 07:16PM,1325,6:04AM,6:36PM,Sep-03,12:35PM,Sep-03,11:08PM
+Raviwar,Sukla Paksha Navami,Sep 04 10:40AM,Sep 05 08:28AM,1308,Moola,Sep 04 09:43PM,Sep 05 08:05PM,1342,Vaidhruthi ,Sep 02 07:16PM,Sep 03 05:00PM,1304,6:04AM,6:35PM,Sep-04,1:42PM,Sep-05,12:01AM
+Somwar,Sukla Paksha Dashami [ Tithi Kshaya ],Sep 05 08:28AM,Sep 06 05:54AM,1286,Purva Ashadha,Sep 05 08:05PM,Sep 06 06:09PM,1324,Vishkambha,Sep 03 05:00PM,Sep 04 02:23PM,1283,6:05AM,6:34PM,Sep-05,2:48PM,Sep-06,1:02AM
+Mangalwar,Sukla Paksha Ekadashi ,Sep 06 05:54AM,Sep 07 03:05AM,1271,Uttara Ashadha,Sep 06 06:09PM,Sep 07 04:00PM,1311,Prithi ,Sep 04 02:23PM,Sep 05 11:28AM,1265,6:05AM,6:33PM,Sep-06,3:50PM,Sep-06,2:10AM
+Budhwar,Sukla Paksha Dwadashi ,Sep 07 03:05AM,Sep 08 12:05AM,1260,Shravana,Sep 07 04:00PM,Sep 08 01:46PM,1306,Ayushman ,Sep 05 11:28AM,Sep 06 08:15AM,1247,6:06AM,6:32PM,Sep-07,4:44PM,Sep-08,3:21AM
+Guruwar,Sukla Paksha Trayodashi ,Sep 08 12:05AM,Sep 08 09:03PM,1258,Dhanishta,Sep 08 01:46PM,Sep 09 11:35AM,1309,Saubhagya,Sep 06 08:15AM,Sep 07 04:49AM,1234,6:06AM,6:31PM,Sep-08,5:32PM,Sep-09,4:31AM
+Shukrwar,Sukla Paksha Chaturdashi ,Sep 08 09:03PM,Sep 09 06:08PM,1265,Shatabhisha,Sep 09 11:35AM,Sep 10 09:37AM,1322,Sobhana ,Sep 07 04:49AM,Sep 08 01:15AM,1226,6:07AM,6:29PM,Sep-09,6:13PM,Sep-10,5:39AM
+Shaniwar,Sukla Paksha Purnima,Sep 09 06:08PM,Sep 10 03:28PM,1281,Purva Bhadrapada,Sep 10 09:37AM,Sep 11 08:02AM,1345,Atiganda,Sep 08 01:15AM,Sep 08 09:40PM,1225,6:07AM,6:28AM,Sep-10,6:49PM,Sep-11,6:44AM
